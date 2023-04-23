@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/trendposting/static/css/main.073c9b0a.css",
+    "main.js": "/trendposting/static/js/main.244cb8d5.js",
+    "static/js/787.71df535f.chunk.js": "/trendposting/static/js/787.71df535f.chunk.js",
+    "index.html": "/trendposting/index.html",
+    "main.073c9b0a.css.map": "/trendposting/static/css/main.073c9b0a.css.map",
+    "main.244cb8d5.js.map": "/trendposting/static/js/main.244cb8d5.js.map",
+    "787.71df535f.chunk.js.map": "/trendposting/static/js/787.71df535f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.244cb8d5.js"
+  ]
+}
