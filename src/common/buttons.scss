@@ -1,0 +1,18 @@
+button {
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+
+button.large {
+  font-size: var(--font-xs);
+  height: var(--large-height);
+  width: var(--large-width);
+}
+
+button.primary {
+  background-color: white;
+  border-radius: var(--vw-3);
+  border: var(--primary-border);
+  color: #848484;
+}

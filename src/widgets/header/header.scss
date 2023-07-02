@@ -1,0 +1,37 @@
+header {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+#header-logo {
+  cursor: pointer;
+  width: 11.11111111111111vw; /* 100 */
+}
+
+#header-category {
+  font-size: var(--font-xxxs);
+  height: 0;
+  list-style: none;
+  overflow: hidden;
+  position: relative;
+  transition: height .3s;
+  top: -2px;
+  width: var(--large-width);
+  z-index: 2;
+}
+
+#header-category.active {
+  height: calc(4 * 3.125vh);
+}
+
+#header-category li {
+  align-items: center;
+  display: flex;
+  border: var(--primary-border);
+  border-top: none;
+  cursor: pointer;
+  height: 3.125vh; /* 20 */
+  justify-content: center;
+}
