@@ -1,3 +1,7 @@
+# Initial Setting
+npm i
+npm start
+
 # Design Guide
 360 * 640
 
